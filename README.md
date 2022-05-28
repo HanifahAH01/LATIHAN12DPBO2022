@@ -7,7 +7,8 @@
 >![Tampilan Awal](https://user-images.githubusercontent.com/94789593/170833133-9f68963c-8665-45ac-98fc-761e3b1f6d2d.png)
 
 # ADD
->![Add](https://user-images.githubusercontent.com/94789593/170833156-5b31dcbc-c00a-4ca4-be8f-7f2673c829a2.png)
+>![add data](https://user-images.githubusercontent.com/94789593/170833374-9e8f4d62-0f20-40f5-83c4-bde6343dfef3.png)
+
 
 # BERHASIL ADD DATA
 >![Berhasil Add data](https://user-images.githubusercontent.com/94789593/170833169-64046002-6a52-4bb4-b546-075d0c86a361.png)
