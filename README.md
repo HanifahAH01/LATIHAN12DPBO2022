@@ -14,10 +14,11 @@
 >![Berhasil Add data](https://user-images.githubusercontent.com/94789593/170833169-64046002-6a52-4bb4-b546-075d0c86a361.png)
 
 # EDIT 
->![Edit](https://user-images.githubusercontent.com/94789593/170833262-39dd7d9f-bdde-4bd9-9149-14e422fff056.png)
+>![Edit](https://user-images.githubusercontent.com/94789593/170833604-d5d634ff-e21a-45ec-b58e-3fa49bf6b323.png)
+
 
 # BERHASIL EDIT DATA!
->[Berhasil edit data](https://user-images.githubusercontent.com/94789593/170833301-9c34c878-0c89-46cc-b443-da20c48f72e2.png)
+>![Berhasil edit data](https://user-images.githubusercontent.com/94789593/170833301-9c34c878-0c89-46cc-b443-da20c48f72e2.png)
 
 # BERHASIL DELETE DATA!
->[Tampilan setelah delete](https://user-images.githubusercontent.com/94789593/170833310-a955b5cd-39d6-4d88-b20e-31f1102cc611.png)
+>![Tampilan setelah delete](https://user-images.githubusercontent.com/94789593/170833310-a955b5cd-39d6-4d88-b20e-31f1102cc611.png)
